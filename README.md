@@ -5,7 +5,7 @@
 
 This project is a starting point for a Flutter application.
 
-1. Overview
+<h2>1. Overview<h2>
 
 This document outlines the steps and features implemented in the project, along with instructions on how to run the code.
 
@@ -31,3 +31,49 @@ Screenshots
 
 Screenshots of each feature (design, product fetching, filtering, and sorting) have been attached for reference.
 
+
+2. How to Run the Code
+
+Follow these steps to set up and run the project:
+
+Step 1: Clone or Download Repository
+
+Clone the Repository:
+
+Open your IDE (e.g., Visual Studio Code, Android Studio, IntelliJ IDEA).
+
+Use the command below to clone the repository:
+
+git clone <repository-url>
+
+Download as ZIP:
+
+Download the repository as a ZIP file from the source.
+
+Unzip the downloaded file.
+
+Open the unzipped folder in your IDE.
+
+Step 2: Install Dependencies
+
+After opening the repository or folder in your IDE, run the following command in the terminal:
+
+flutter pub get
+
+This will fetch all the necessary dependencies required for the project.
+
+Step 3: Run the Project
+
+Connect an emulator or a physical device to your system.
+
+Execute the command below to run the project:
+
+flutter run
+
+Note:
+
+Ensure that Flutter SDK is properly installed and added to your system’s PATH.
+
+Use a stable internet connection to fetch dependencies.
+
+Verify that the device or emulator has the required configuration for running Flutter applications.
