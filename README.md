@@ -1,16 +1,33 @@
 # beauty_store
 
-A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1. Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This document outlines the steps and features implemented in the project, along with instructions on how to run the code.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features Implemented
+
+Figma Design Conversion
+
+The design provided in Figma was successfully converted into Flutter code, ensuring pixel-perfect UI replication.
+
+Product Fetching
+
+Integrated APIs to fetch products and display them in the application.
+
+Category-Based Filtering
+
+Implemented functionality to filter products based on user-selected categories.
+
+Sorting Features
+
+Enabled sorting of products in both descending and ascending orders for better user experience.
+
+Screenshots
+
+Screenshots of each feature (design, product fetching, filtering, and sorting) have been attached for reference.
+
